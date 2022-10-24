@@ -4,7 +4,7 @@
 #
 Name     : pypi-pycollada
 Version  : 0.7.2
-Release  : 9
+Release  : 10
 URL      : https://files.pythonhosted.org/packages/c1/7e/91cb2540947f0e8bcdee83e61a7b278784ac2d25f2864091344590a2619f/pycollada-0.7.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c1/7e/91cb2540947f0e8bcdee83e61a7b278784ac2d25f2864091344590a2619f/pycollada-0.7.2.tar.gz
 Summary  : python library for reading and writing collada documents
